@@ -1,0 +1,18 @@
+{
+  "id": "kishin",
+  "name": "Kishin",
+  "description": "Competitive PvP-based Minecraft network supporting modern combat.",
+  "addresses": [
+    "kishin.lol"
+  ],
+  "primaryAddress": "eu.kishin.lol",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#FF3B3B",
+  "secondaryColor": "#FFFFFF",
+  "socials": {
+    "store": "https://store.kishin.lol"
+  }
+}
